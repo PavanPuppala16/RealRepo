@@ -12,5 +12,13 @@ namespace GitCodeSave
         {
             Console.WriteLine("Hi");
         }
+        public static void Method1()
+        {
+            Console.WriteLine("Second");
+        }
+        public static void Method2()
+        {
+            Console.WriteLine("second");
+        }
     }
 }
