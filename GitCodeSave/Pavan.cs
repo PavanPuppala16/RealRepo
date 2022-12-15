@@ -20,5 +20,18 @@ namespace GitCodeSave
         {
             Console.WriteLine("second");
         }
+
+        public static void Metho()
+        {
+            Console.WriteLine("Hi");
+        }
+        public static void Meth()
+        {
+            Console.WriteLine("Second");
+        }
+        public static void Meth2()
+        {
+            Console.WriteLine("second");
+        }
     }
 }
