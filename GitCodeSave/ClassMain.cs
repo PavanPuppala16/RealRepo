@@ -8,5 +8,9 @@ namespace GitCodeSave
 {
     internal class ClassMain
     {
+        public static void Method()
+        {
+            Console.WriteLine("Hi");
+        }
     }
 }
